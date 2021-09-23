@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "lesson",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel_Zhibinov",
+  "license": "ISC"
+}
